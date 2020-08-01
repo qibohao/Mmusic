@@ -1,0 +1,85 @@
+* {
+  margin: 0 ;
+  padding: 0 ;
+}
+html {
+  font-size: 1px;
+}
+.a1 {
+  margin-top: 62rem;
+  overflow: hidden;
+}
+.a1 div:nth-child(1) {
+  float: left;
+  margin-left: 32rem;
+}
+.a1 div:nth-child(1) > img {
+  width: 44rem;
+  height: 44rem;
+}
+.a1 div:nth-child(2) {
+  float: right;
+  font-size: 30rem;
+  color: #666666;
+  margin-right: 32rem;
+}
+.b1 {
+  width: 100%;
+  position: relative;
+  height: 274rem;
+  margin-top: 19rem;
+  margin-bottom: 110rem;
+}
+.b1 img {
+  width: 250rem;
+  height: 274rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.c1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.c1 div {
+  width: 100%;
+  height: 100rem;
+  text-align: center;
+  font-size: 30rem;
+}
+.c1 input {
+  width: 600rem;
+  font-size: 28rem;
+  color: #999999;
+  text-align: center;
+  border: none;
+  border-bottom: 1rem solid ;
+  padding-bottom: 20rem;
+  outline: none;
+}
+.d1 {
+  width: 100%;
+  margin-top: 15rem;
+  text-align: center;
+}
+.d1 img {
+  width: 102rem;
+  height: 102rem;
+}
+.e1 {
+  width: 100%;
+  text-align: center;
+  color: #999999;
+  font-size: 22rem;
+  margin-top: 250rem;
+  margin-bottom: 100rem;
+}
+.h1 {
+  width: 100%;
+  height: 20rem;
+  text-align: center;
+  font-size: 30rem;
+  color: #7d7d7d;
+}
